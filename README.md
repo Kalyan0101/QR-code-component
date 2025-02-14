@@ -21,14 +21,14 @@ This is a basic introductory assignment but still enjoy 😎👍.
 ![desktop view](./design/desktop-design.jpg)
 
 **Mobile view**
-<p>
+<p align=center>
   <img src="./design/mobile-design.jpg" />
 </p>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github QR-code-component](https://github.com/Kalyan0101/QR-code-component)
+- Live Site URL: [Live QR-code-component](https://kalyan0101.github.io/QR-code-component/)
 
 ### Built with
 
